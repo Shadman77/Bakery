@@ -90,7 +90,7 @@ body{
 	}
 	#navbarResponsive{
 		max-height: 80vh;
-		overflow-y: scroll;
+		overflow-y: auto;
 	}
 }
 @media (max-width: 768px) {/*sm*/
